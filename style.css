@@ -1,0 +1,122 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+        font-family: "Young Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+      
+}
+.container{
+    padding: 50px;
+}
+
+.session-one {
+    background-color: black;
+    color:white;
+    padding: 20px;
+}
+.session-one--contact {
+    background-color: yellowgreen;
+    color:white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.session-one--name{
+    font-size: 60px;
+}
+
+.session-one--role {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.session-two,.session-three,.session-four,.session-five {
+    margin-top: 20px;
+}
+
+.session-two--description,.session-three--description,.session-four--description,.session-five--description {
+    margin-top: 20px;
+}
+
+.session-five{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.session-five--title a{
+    color: skyblue;
+}
+
+.session-three li,.session-four li{
+    list-style-type: none;
+}
+
+.session-three {
+    background-color: #6462fd;
+    color:black;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+.session-four {
+    background-color: #fe7517;
+    color:black;
+    padding: 20px;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+
+.contact-form{
+    margin-top: 20px;
+}
+
+.contact-form__input,.contact-form__textarea,.contact-form__submit,.contact-form__reset {
+    margin-top: 10px;
+}
+
+.contact-form__input {
+    padding: 10px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+
+.contact-form__textarea {
+    padding: 10px;
+    border: none;
+    border: solid black 1px;
+}
+
+.contact-form__submit {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: orangered;
+    border: none;
+}
+
+.contact-form__reset {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+    background-color: orangered;
+    border: none;
+}
