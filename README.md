@@ -6,7 +6,7 @@ This is my personal **portfolio website** created using **HTML and CSS**. It sho
 
 ## 🌐 Live Preview
 
-🔗 [View Portfolio Website](https://your-deployed-link.netlify.app/)  
+🔗 [View Portfolio Website](https://ulaganathan0709.github.io/Dev_Portfolio/)  
 
 ---
 
